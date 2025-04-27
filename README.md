@@ -1,3 +1,7 @@
+#Team
+Student 1: Santi
+Studdent 2: Bas 
+
 ## Set-up
 
 Een taak waarbij een agent moet springen over balken
@@ -33,3 +37,5 @@ The environment heeft een agent.
 In de trainresultaten zie je dat de grafiek een duidelijk leercurve laat zien. De eerste 20 duizend stappen bleef de beloning redelijk laag en stabiel. Tussen de 20 and 30 duizend stappen zien we een hele snelle toename in de beloningen van ongeveer 4 naar 12. Deze versnelling komt overheen met wanneer de agent leerde om over de logs te springen.
 
 Hierna zien we niet zo een groot verschil meer in de toename. Voor de rest van de 70 duizend stappen schommeld het een beetje tussen de 10 en 12.
+
+Link video: https://ap.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderQuery=%22vr%20%22&folderID=%223eaa47ce-67fa-4080-bce6-b11b0071a3b2%22
