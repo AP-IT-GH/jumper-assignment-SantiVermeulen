@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\Jumper Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|c:\\users\\santi\\jumper exercise\\assets\\scripts\\jumperagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumperagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|C:\\Users\\santi\\Jumper Exercise\\assets\\scripts\\jumper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|C:\\Users\\santi\\Jumper Exercise\\assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D5983E-E991-8EB2-0E58-C20B7CDFFA13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JumperAgent.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\JumperAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JumperAgent.cs",
+              "ToolTip": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\JumperAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JumperAgent.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:45:37.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jumper.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\Jumper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jumper.cs",
+              "ToolTip": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\Jumper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jumper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:41:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ToolTip": "C:\\Users\\santi\\Jumper Exercise\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:45:57.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
