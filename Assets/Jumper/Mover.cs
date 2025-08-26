@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
-    public Vector3 direction = Vector3.back; // Movement direction
+    public Vector3 direction = Vector3.back;
     public float speed;
-    public Jumper jumper; // Reference to the Jumper
+    public Jumper jumper;
 
     void Start()
     {
