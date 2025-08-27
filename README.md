@@ -225,4 +225,4 @@ In de trainresultaten zie je dat de grafiek een duidelijk leercurve laat zien. D
 
 Hierna zien we niet zo een groot verschil meer in de toename. Voor de rest van de 70 duizend stappen schommeld het een beetje tussen de 10 en 12.
 
-Link video: https://ap.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderQuery=%22vr%20%22&folderID=%223eaa47ce-67fa-4080-bce6-b11b0071a3b2%22
+Link video: https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eca73973-c6f6-4b81-b407-b346010dfb23
